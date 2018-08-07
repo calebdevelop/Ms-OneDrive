@@ -2,7 +2,7 @@
   "name": "Ms/OneDrive",
   "description": "Microsoft Graphone Api - OneDrive for PHP",
   "keywords": ["OneDrive api", "Microsoft graph", "OneDrive Rest api"],
-  "version": "1.0.0",
+  "version": "1.0",
   "authors": [
     {
       "name": "Caleb Rajaonary",
