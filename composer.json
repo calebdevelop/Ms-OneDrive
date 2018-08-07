@@ -1,0 +1,8 @@
+{
+  "name": "Ms/OneDrive",
+  "description": "Microsoft Graphone Api - OneDrive for PHP",
+  "require": {
+    "php": "^5.6 || ^7.0",
+    "guzzlehttp/guzzle": "^6.3"
+  }
+}
