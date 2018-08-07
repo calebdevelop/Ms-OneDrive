@@ -1,5 +1,5 @@
 {
-  "name": "Ms/OneDrive",
+  "name": "tarask/OneDrive",
   "description": "Microsoft Graphone Api - OneDrive for PHP",
   "keywords": ["OneDrive api", "Microsoft graph", "OneDrive Rest api"],
   "version": "1.0",
